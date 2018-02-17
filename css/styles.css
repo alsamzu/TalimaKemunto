@@ -1,4 +1,15 @@
 .container{
+    height: 100%;
+}
+body{
+    height: 100%;
+    background: url("/img/ivan-dodig-514111.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+.container{
     display: flex;
     flex-direction: column;
    align-items: flex-start;
@@ -9,6 +20,7 @@
     top: 250px;
     right: 120px;
    color: white;
+    font-family: 'Playfair Display', serif;
     
 }
 .box{
