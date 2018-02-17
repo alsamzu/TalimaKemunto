@@ -7,13 +7,15 @@
     align-self:center;
     position: relative;
     top: 250px;
-    right: 70px;
-   
+    right: 120px;
+   color: white;
     
 }
 .box{
-    width: 150px;
-    height: 250px;
+    
+    bottom: 50px;
+    width: 230px;
+    height: 370px;
     border: 15px solid red;
     align-self: center;
     position: relative;
@@ -23,7 +25,8 @@
 h1{
     font-size: 13vw;
 }
-h3{
-    font-size: 5vw;
-    margin-left: 40px;
+p{
+    margin-left: 300px;
+    position: relative;
+    bottom: 35px;
 }
