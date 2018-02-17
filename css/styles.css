@@ -4,7 +4,26 @@
    align-items: flex-start;
 }
 .row{
-    align-self:flex-start;
+    align-self:center;
     position: relative;
     top: 250px;
+    right: 70px;
+   
+    
+}
+.box{
+    width: 150px;
+    height: 250px;
+    border: 15px solid red;
+    align-self: center;
+    position: relative;
+    left: 350px;
+   
+}
+h1{
+    font-size: 13vw;
+}
+h3{
+    font-size: 5vw;
+    margin-left: 40px;
 }
