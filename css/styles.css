@@ -5,10 +5,14 @@ body,html{
 #cen{
     margin-top: 40vh;
     margin-right: 40vw;
+    font-size: 6vw;
+    line-height: 8vh;
 }
+
 #en{
     margin-top: 18vh;
 }
+
 
 /*
 .container{
