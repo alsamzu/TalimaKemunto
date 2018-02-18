@@ -1,9 +1,13 @@
 body,html{
     height: 100%;
 }
+
 #cen{
     margin-top: 40vh;
     margin-right: 40vw;
+}
+#en{
+    margin-top: 18vh;
 }
 
 /*
