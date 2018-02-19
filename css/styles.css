@@ -16,12 +16,25 @@ body{
     font-size: 6vw;
     line-height: 8vh;
     color: white;
+/*    border: 5px solid red;*/
 }
 
 #en{
     margin-top: 18vh;
     color: white;
 }
+
+.box{
+    width: 12vw;
+    height: 35vh;
+    border: 7px solid red;
+    position: relative;
+    margin-top: -30vh;
+    margin-left: 4vw;
+/*    bottom: 250px;*/
+/*    left: 60px;*/
+}
+
 
 
 /*
