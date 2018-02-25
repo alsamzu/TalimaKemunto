@@ -23,7 +23,7 @@ body,html {
 
 }
 .boxx{
-    width: 120px;
+    width: 60px;
     height: 180px;
    border: 15px solid red;
   position: relative;
@@ -31,6 +31,7 @@ body,html {
     top: 50%;
     
 }
+
 
 /*
 #cen{
