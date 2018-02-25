@@ -32,12 +32,13 @@ body{
 }
 
 .box{
-    width: 12vw;
+    width: 60%;
     height: 38vh;
-    border: 10px solid red;
+    border: 13px solid red;
     position: relative;
-    margin-top: -30vh;
+    margin-top: -27vh;
     margin-left: 7vw;
+    
     
 }
 
