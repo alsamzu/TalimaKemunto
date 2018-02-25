@@ -23,8 +23,8 @@ body,html {
 
 }
 .boxx{
-    width: 120px;
-    height: 180px;
+    width: 140px;
+    height:250px;
    border: 15px solid red;
   position: relative;
     margin: 0  auto;
@@ -36,11 +36,23 @@ body,html {
     font-weight: bold;
     font-size: 10vw;
     position: relative;
-    right: 80px;
-    font-family: 'Playfair Display', serif;
+    right: 172px;
+    bottom: 10px;
+    font-family: 'Montserrat', sans-serif;
     
 }
+#kem{
+    font-size: 1.3vw;
+    position: relative;
+    bottom: 50px;
+    left: 250px;
+}
+#hind{
+    color: white;
+    position: relative;
+    top: 25px;
 
+}
 
 /*
 #cen{
